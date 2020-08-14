@@ -40,8 +40,8 @@ ext {
 
     libraryDescription = 'Bldx library to create new catalogues'
 
-    siteUrl = 'https://github.com/tachiyomiorg/extensions-lib'
-    gitUrl = 'https://github.com/tachiyomiorg/extensions-lib.git'
+    siteUrl = 'https://github.com/saputro77/extensions-lib'
+    gitUrl = 'https://github.com/saputro77/extensions-lib.git'
 
     licenseName = 'The Apache Software License, Version 2.0'
     licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
