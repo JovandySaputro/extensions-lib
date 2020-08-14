@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.source
+package id.dmmgroup.bldx.source
 
 /**
  * A factory for creating sources at runtime.

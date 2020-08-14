@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.network
+package id.dmmgroup.bldx.network
 
 import android.content.Context
 import okhttp3.OkHttpClient

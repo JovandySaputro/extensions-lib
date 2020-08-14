@@ -34,11 +34,11 @@ repositories {
 }
 
 ext {
-    publishedGroupId = 'eu.kanade.tachiyomi'
-    libraryName = 'tachiyomi-extensions-lib'
+    publishedGroupId = 'id.dmmgroup.bldx'
+    libraryName = 'bldx-extensions-lib'
     artifact = 'extensions-library'
 
-    libraryDescription = 'Tachiyomi library to create new catalogues'
+    libraryDescription = 'Bldx library to create new catalogues'
 
     siteUrl = 'https://github.com/tachiyomiorg/extensions-lib'
     gitUrl = 'https://github.com/tachiyomiorg/extensions-lib.git'

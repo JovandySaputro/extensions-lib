@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.network
+package id.dmmgroup.bldx.network
 
 import okhttp3.Call
 import okhttp3.Response

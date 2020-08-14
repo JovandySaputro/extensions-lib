@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.source.model
+package id.dmmgroup.bldx.source.model
 
 import android.net.Uri
 

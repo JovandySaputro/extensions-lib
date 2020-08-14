@@ -1,9 +1,9 @@
-package eu.kanade.tachiyomi.source.online
+package id.dmmgroup.bldx.source.online
 
-import eu.kanade.tachiyomi.source.model.MangasPage
-import eu.kanade.tachiyomi.source.model.Page
-import eu.kanade.tachiyomi.source.model.SChapter
-import eu.kanade.tachiyomi.source.model.SManga
+import id.dmmgroup.bldx.source.model.MangasPage
+import id.dmmgroup.bldx.source.model.Page
+import id.dmmgroup.bldx.source.model.SChapter
+import id.dmmgroup.bldx.source.model.SManga
 import okhttp3.Response
 import org.jsoup.nodes.Document
 import org.jsoup.nodes.Element

@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.util
+package id.dmmgroup.bldx.util
 
 import okhttp3.Response
 import org.jsoup.nodes.Document

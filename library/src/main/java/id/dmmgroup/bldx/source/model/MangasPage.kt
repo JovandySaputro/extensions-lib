@@ -1,3 +1,3 @@
-package eu.kanade.tachiyomi.source.model
+package id.dmmgroup.bldx.source.model
 
 data class MangasPage(val mangas: List<SManga>, val hasNextPage: Boolean)

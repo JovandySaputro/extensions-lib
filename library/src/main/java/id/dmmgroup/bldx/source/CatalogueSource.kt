@@ -1,7 +1,7 @@
-package eu.kanade.tachiyomi.source
+package id.dmmgroup.bldx.source
 
-import eu.kanade.tachiyomi.source.model.FilterList
-import eu.kanade.tachiyomi.source.model.MangasPage
+import id.dmmgroup.bldx.source.model.FilterList
+import id.dmmgroup.bldx.source.model.MangasPage
 import rx.Observable
 
 interface CatalogueSource : Source {

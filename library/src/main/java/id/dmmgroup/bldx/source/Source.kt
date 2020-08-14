@@ -1,8 +1,8 @@
-package eu.kanade.tachiyomi.source
+package id.dmmgroup.bldx.source
 
-import eu.kanade.tachiyomi.source.model.Page
-import eu.kanade.tachiyomi.source.model.SChapter
-import eu.kanade.tachiyomi.source.model.SManga
+import id.dmmgroup.bldx.source.model.Page
+import id.dmmgroup.bldx.source.model.SChapter
+import id.dmmgroup.bldx.source.model.SManga
 import rx.Observable
 
 /**

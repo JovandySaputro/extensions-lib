@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.source.model
+package id.dmmgroup.bldx.source.model
 
 sealed class Filter<T>(val name: String, var state: T) {
     open class Header(name: String) : Filter<Any>(name, 0)

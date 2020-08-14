@@ -1,8 +1,8 @@
-package eu.kanade.tachiyomi.source.online
+package id.dmmgroup.bldx.source.online
 
-import eu.kanade.tachiyomi.network.NetworkHelper
-import eu.kanade.tachiyomi.source.CatalogueSource
-import eu.kanade.tachiyomi.source.model.*
+import id.dmmgroup.bldx.network.NetworkHelper
+import id.dmmgroup.bldx.source.CatalogueSource
+import id.dmmgroup.bldx.source.model.*
 import okhttp3.Headers
 import okhttp3.OkHttpClient
 import okhttp3.Request
